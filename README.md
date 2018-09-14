@@ -30,7 +30,7 @@
 
 
 
-Installation
+## Installation
 
 1. Install this code on your local system
 
@@ -45,11 +45,11 @@ Installation
 
  - cd vuejs-poster-shop
 
-Install dependencies
+## Install dependencies
 
  - npm install
 
-Start project
+## Start project
 
  - npm run start
 
